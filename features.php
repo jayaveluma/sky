@@ -9,7 +9,7 @@
                 <h1>All the Essential Features You Need for <span>Powerful Cold Email Infrastructure</span></h1>
             </div>
             <div class="desc desfeat">
-                SkySenders provides a complete suite of tools to optimize your email deliverability, automate outreach, and monitor performance in real time. From domain setup to advanced 
+                SkySenders provides a complete suite to optimize your email deliverability, automate outreach, and monitor performance in real time. From domain setup to advanced 
                 analytics, get everything you need in one seamless platform.
             </div>
             <div class="btn-cont">
